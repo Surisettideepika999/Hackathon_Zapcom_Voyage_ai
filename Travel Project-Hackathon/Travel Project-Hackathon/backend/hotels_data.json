@@ -1,0 +1,162 @@
+{
+  "New York": [
+    {
+      "name": "Hyatt Place",
+      "rating": 4.8,
+      "address": "Times Square, New York",
+      "price_range": "$300 - $500"
+    },
+    {
+      "name": "Park Central",
+      "rating": 4.7,
+      "address": "Manhattan, New York",
+      "price_range": "$250 - $400"
+    },
+    {
+      "name": "Hotel Edison",
+      "rating": 4.3,
+      "address": "Times Square, New York",
+      "price_range": "$180 - $280"
+    },
+    {
+      "name": "Pod 39",
+      "rating": 4.5,
+      "address": "Murray Hill, New York",
+      "price_range": "$200 - $320"
+    },
+    {
+      "name": "Warwick New York",
+      "rating": 4.6,
+      "address": "Manhattan, New York",
+      "price_range": "$220 - $350"
+    }
+  ],
+  "Los Angeles": [
+    {
+      "name": "Doubletree by Hilton",
+      "rating": 4.4,
+      "address": "Downtown Los Angeles",
+      "price_range": "$200 - $350"
+    },
+    {
+      "name": "The Westin Bonaventure Hotel & Suites",
+      "rating": 4.2,
+      "address": "Downtown LA",
+      "price_range": "$150 - $280"
+    },
+    {
+      "name": "The Live Hotel",
+      "rating": 4.3,
+      "address": "Downtown Los Angeles",
+      "price_range": "$180 - $300"
+    },
+    {
+      "name": "Super 8 by Wyndham",
+      "rating": 4.5,
+      "address": "Downtown LA",
+      "price_range": "$190 - $320"
+    },
+    {
+      "name": "Samesun Hollywood Hotel",
+      "rating": 4.4,
+      "address": "Hollywood, LA",
+      "price_range": "$220 - $370"
+    }
+  ],
+  "Las Vegas": [
+    {
+      "name": "The LINQ Hotel and Casino",
+      "rating": 4.7,
+      "address": "Las Vegas Blvd, Strip",
+      "price_range": "$250 - $400"
+    },
+    {
+      "name": "Harrah's Las Vegas Hotel",
+      "rating": 4.6,
+      "address": "Las Vegas Strip",
+      "price_range": "$220 - $370"
+    },
+    {
+      "name": "Fairfield Inn Las Vegas",
+      "rating": 4.8,
+      "address": "East of the Las Vegas Strip",
+      "price_range": "$270 - $420"
+    },
+    {
+      "name": "Treasure Island Hotel & Casino",
+      "rating": 4.3,
+      "address": "Las Vegas Strip",
+      "price_range": "$180 - $320"
+    },
+    {
+      "name": "Horseshoe",
+      "rating": 4.9,
+      "address": "Las Vegas Strip",
+      "price_range": "$300 - $450"
+    }
+  ],
+  "Chicago": [
+    {
+      "name": "River Hotel",
+      "rating": 4.9,
+      "address": "Chicago, Chicago",
+      "price_range": "$220 - $350"
+    },
+    {
+      "name": "Riu Plaza Chicago",
+      "rating": 4.2,
+      "address": "Streeterville, Chicago",
+      "price_range": "$160 - $270"
+    },
+    {
+      "name": "Hilton Garden Inn",
+      "rating": 4.5,
+      "address": "River North, Chicago",
+      "price_range": "$190 - $300"
+    },
+    {
+      "name": "Chinatown Hotel Chicago",
+      "rating": 4.3,
+      "address": "Chinatown, Chicago",
+      "price_range": "$170 - $280"
+    },
+    {
+      "name": "Congress Plaza Hotel Chicago",
+      "rating": 4.7,
+      "address": "Chicago Loop, Chicago",
+      "price_range": "$200 - $340"
+    }
+  ],
+  "San Francisco": [
+    {
+      "name": "Beacon Grand",
+      "rating": 4.5,
+      "address": "Union Square, SF",
+      "price_range": "$210 - $330"
+    },
+    {
+      "name": "The Pickwick Hotel",
+      "rating": 4.6,
+      "address": "Union Square, San Francisco",
+      "price_range": "$240 - $380"
+    },
+    {
+      "name": "Cow Hollow Inn and Suites",
+      "rating": 4.8,
+      "address": "Marina District, San Francisco",
+      "price_range": "$280 - $420"
+    },
+    {
+      "name": "Hotel Zephyr",
+      "rating": 4.2,
+      "address": "Fisherman’s Wharf, San Francisco",
+      "price_range": "$190 - $310"
+    },
+    {
+      "name": "Holiday Inn San Francisco",
+      "rating": 4.4,
+      "address": "Nob Hill, San Francisco",
+      "price_range": "$200 - $340"
+    }
+  ]
+}
